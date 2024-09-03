@@ -75,5 +75,4 @@ Exemplo: 10 % 2
 Resultado: 5
 =======
 # simple-calculador
-estudo
->>>>>>> 4fbf50e54c033e832f62a936b61271e9f9a9b7d6
+
