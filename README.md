@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Simple-Calculator
-Project of a simple calculator 
-
 # Simple-Calculator
 
 Projeto de uma calculadora simples.
