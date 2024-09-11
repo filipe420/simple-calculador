@@ -1,7 +1,10 @@
-# Simple-Calculator
+![pc](https://github.com/user-attachments/assets/69b46650-76a9-4f13-9caf-678638b3db39)# Simple-Calculator
 
 veja: em https://simple-calculador.vercel.app/
-![pc](https://github.com/user-attachments/assets/dafb84b5-c9e7-4d7c-91b8-caf9da3983db)
+![pc](https://github.com/user-attachments/assets/64cceb78-f5a8-48ba-bc64-35e85c2df415)
+
+
+
 
 
 Projeto de uma calculadora simples.
