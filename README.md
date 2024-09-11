@@ -1,8 +1,7 @@
 # Simple-Calculator
 
 veja: em https://simple-calculador.vercel.app/
-![Uploading Design sem nome.png…]()
-
+![pc](https://github.com/user-attachments/assets/dafb84b5-c9e7-4d7c-91b8-caf9da3983db)
 
 
 Projeto de uma calculadora simples.
