@@ -1,5 +1,9 @@
 # Simple-Calculator
 
+veja: em https://simple-calculador.vercel.app/
+![2](https://github.com/user-attachments/assets/7d235f9f-e28c-4f3e-a449-cb827fdff4eb)
+
+
 Projeto de uma calculadora simples.
 
 ## Índice
