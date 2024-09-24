@@ -1,5 +1,3 @@
-![pc](https://github.com/user-attachments/assets/69b46650-76a9-4f13-9caf-678638b3db39)# Simple-Calculator
-
 veja: em https://simple-calculador.vercel.app/
 ![pc](https://github.com/user-attachments/assets/6f50b002-4bde-48cb-8038-d88e843bee26)
 
